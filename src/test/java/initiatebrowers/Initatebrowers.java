@@ -13,6 +13,7 @@ import org.testng.annotations.BeforeClass;
 public class Initatebrowers {
 public ChromeDriver d;
 public Properties pr ;
+
 @BeforeClass
 	
 	public void loadchromebrowser()
